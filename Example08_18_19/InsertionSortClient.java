@@ -20,7 +20,7 @@ public class InsertionSortClient
         System.out.print( numbers[i] + "\t" );
      System.out.println( );
 
-     Sorter.insertionSort( numbers ); // sort the array
+     Sorter2.insertionSort( numbers ); // sort the array
 
      System.out.println( "\nAfter Insertion Sort, the array is"  );
      for ( int i = 0; i < numbers.length; i++ )

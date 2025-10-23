@@ -2,7 +2,7 @@
 *  Anderson, Franceschi
 */
 
-public class Sorter
+public class Sorter1
 {
   /**  Uses Selection Sort to sort
   *      an integer array in ascending order
@@ -18,7 +18,7 @@ public class Sorter
       // find index of largest value in subarray
       max = indexOfLargestElement( array, array.length - i );
 
-      // swap array[max] and array[array.length – i - 1]
+      // swap array[max] and array[array.length ï¿½ i - 1]
       temp = array[max];
       array[max] = array[array.length - i - 1];
       array[array.length - i - 1] = temp;

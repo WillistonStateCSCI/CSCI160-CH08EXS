@@ -21,6 +21,7 @@
           System.out.println( key + " found at index " + index );
      else
           System.out.println( key + " not found" );
+     scan.close();
    }
 
    public static int binarySearch( int [] arr, int key )

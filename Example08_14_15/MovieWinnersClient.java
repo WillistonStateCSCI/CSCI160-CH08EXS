@@ -28,5 +28,6 @@ public class MovieWinnersClient
 
     System.out.println( "\nThe winners were "
                          + winningIDs.toString( ) );
+    scan.close();
    }
 }

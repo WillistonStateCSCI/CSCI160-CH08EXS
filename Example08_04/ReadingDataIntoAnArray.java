@@ -17,5 +17,6 @@ public class ReadingDataIntoAnArray
                          + ( i + 1 ) + "\t" );
       cellBills[i] = scan.nextDouble( ); // read current bill
     }
+    scan.close();
   }
 }

@@ -2,7 +2,7 @@
     Anderson, Franceschi
 */
 
-public class Sorter
+public class Sorter2
 {
   /**  Performs a Selection Sort on
   *      an integer array
