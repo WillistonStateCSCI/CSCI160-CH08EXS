@@ -6,7 +6,7 @@ Programming Examples From Java Illuminated Book by Anderson and Franceschi
 **CH 8 EX 04** A demonstration of using looping to store user input into an array.  
 **CH 8 EX 05** A demonstration of using looping to add up all values in an array.  
 **CH 8 EX 06** A demonstration of using looping to find the maximum value in an array.  
-**CH 8 EX 07** A demonstration of using looping to store use input into an array.  
+**CH 8 EX 07** A demonstration of using looping to copy elements into an array.  
 **CH 8 EX 08** A demonstration of how to check if two arrays are equal.  
 **CH 8 EX 11 and 12** A demonstration of comparing two CellPhone type objects with bill information stored in arrays.  
 **CH 8 EX 13** A demonstration of using code to check the number of command line arguments.  
