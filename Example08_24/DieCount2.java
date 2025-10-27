@@ -13,7 +13,7 @@ public class DieCount2
      int [] rollCount = new int [FACES];
 
      // instantiate the Die
-     Die d1 = new Die( );
+     Die2 d1 = new Die2( );
 
      // roll the die 500 times
      for ( int i = 1; i <= NUMBER_OF_ROLLS; i++ )

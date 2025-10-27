@@ -3,7 +3,7 @@
 */
 import java.util.Random;
 
-public class Die
+public class Die2
 {
    public final int SIDES = 6;
    private Random rand;
@@ -11,7 +11,7 @@ public class Die
    /** default constructor
    *   instantiates the Random object
    */
-   public Die( )
+   public Die2( )
    {
       rand = new Random( );
    }
